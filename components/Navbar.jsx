@@ -1,7 +1,6 @@
-import Image from "next/image";
-import logo from "@assets/images/logo.png";
-import profileDefault from "@assets/images/profile.png";
-
+import Image from 'next/image';
+import logo from '@/assets/images/logo.png';
+import profileDefault from '@/assets/images/profile.png';
 const Navbar = () => {
 	return (
 		<nav className="bg-blue-700 border-b border-blue-500">
